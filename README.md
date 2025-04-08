@@ -8,7 +8,3 @@
 ![image](https://github.com/user-attachments/assets/65cafca9-ab84-4340-9d7b-d3108f9b9371)
 
 제가 심심할 때 직접 만든 모델들입니당.
-
-남는 3D 리소스 많이많이 업데이트할테니 별표 눌러주시면 감사하겠습니다 >~<
-
-저작권자만 잘 표기(MIT license)하구 맘대루 쓰셔요!
